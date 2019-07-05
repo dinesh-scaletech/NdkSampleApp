@@ -68,4 +68,4 @@
     include $(BUILD_SHARED_LIBRARY)
     ```
  
- 
+ https://kn-gloryo.github.io/Build_NDK_AndroidStudio_detail/
